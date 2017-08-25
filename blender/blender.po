@@ -1,5 +1,66 @@
+msgid "use"
+msgstr "使用"
+
+msgid "Texture"
+msgstr "材质"
+
+msgid "Limt"
+msgstr "限制"
+
+msgid "Viewport"
+msgstr "视点"
+
+msgid "Render"
+msgstr "渲染"
+
+msgid "Distance"
+msgstr "距离"
+
+msgid "Cull"
+msgstr "剔除"
+
+msgid "Data"
+msgstr "数据"
+
+msgid "Transfer"
+msgstr "转换"
+
+msgid "Layout"
+msgstr "层"
+
+msgid "Face"
+msgstr "面"
+
+msgid "Corner"
+msgstr "点"
+
+msgid "Edge"
+msgstr "边"
+
+msgid "Custom"
+msgstr "用户"
+
+msgid "Performance"
+msgstr "性能"
+
+msgid "Ray"
+msgstr "射线"
+
+msgid "VIsibility"
+msgstr "能见度"
+
+msgid "Shadow"
+msgstr "阴影"
+
+msgid "Catcher"
+msgstr "捕手"
+
 msgid ""
 msgstr ""
+
+msgid "Freestyle"
+msgstr "自选动作"
+
 "Project-Id-Version: Blender 2.79 (sub 0) (b'6e7d9621180')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-17 15:17:11\n"
