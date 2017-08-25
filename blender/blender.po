@@ -1,3 +1,6 @@
+msgid ""
+msgstr ""
+
 msgid "use"
 msgstr "使用"
 
