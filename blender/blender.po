@@ -32,11 +32,22 @@ msgid "Use Distance Cull"
 msgstr "使用距离剔除"
 
 msgid "Use Camera Cull"
-msgstr "使用距离剔除"
+msgstr "使用相机剔除"
 
 msgid "Texture Limt Viewport"
 msgstr "材质限制视点"
 
+msgid " Freestyle"
+msgstr " 自选动作"
+
+msgid "Data Transfer："
+msgstr "数据转换:"
+
+msgid "Data Layout"
+msgstr "数据布局"
+
+msgid "  Freestyle"
+msgstr "  自选动作"
 
 msgid "######################## e ##############################"
 msgstr "##################### end ##############################"
