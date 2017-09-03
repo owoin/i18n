@@ -14,6 +14,33 @@ msgstr ""
 msgid "%s:"
 msgstr "%s："
 
+msgid "Highlight colour"
+msgstr "突出的色彩"
+
+msgid "Shadows colour"
+msgstr "阴影颜色"
+
+msgid "Shadow opacity"
+msgstr "阴影不透明度"
+
+msgid "Edge Detection"
+msgstr "边缘检测"
+
+msgid "Blur"
+msgstr "模糊"
+
+msgid "Blur Radius"
+msgstr "模糊半径"
+
+msgid "Sharpen (HighPassFilter)"
+msgstr "锐化（高通道保留）"
+
+msgid "Sharpening Layer Opacity"
+msgstr "锐化图层不透明度"
+
+msgid "Flatten Image"
+msgstr "拼合图像"
+
 msgid "3D _Outline..."
 msgstr "3D 轮廓(_O)..."
 
