@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-24 02:18+0200\n"
+"PO-Revision-Date: 2007-10-01 21:41-0700\n"
+"Last-Translator: Pete Lypkie <pete.lypkie@gmail.com>\n"
+"Language-Team: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Applying changes..."
+msgstr "正在应用变化"
+
+msgid "Discard"
+msgstr "丢弃"
+
+msgid "GIMP LiquidRescale Plug-In"
+msgstr "GIMP LiquidRescale 插件"
+
+msgid "Height:"
+msgstr "高度"
+
+msgid "Li_quid rescale..."
+msgstr "Li_quid改变大小"
+
+msgid "Not enough memory"
+msgstr "没有足够多的内存"
+
+msgid "Null"
+msgstr "零"
+
+msgid "Overall coefficient for feature discard intensity"
+msgstr "全部的系数为把特征丢弃的强度"
+
+msgid "Overall coefficient for feature preservation intensity"
+msgstr "全部的系数为保持特征的强度"
+
+msgid "Parsing layer..."
+msgstr "正在解析图层"
+
+msgid "Resize image canvas"
+msgstr "画布改变大小"
+
+msgid "Resizing height..."
+msgstr "正在改变高度"
+
+msgid "Resizing width..."
+msgstr "正在改变宽度"
+
+msgid "Select behaviour for the mask"
+msgstr "选择蒙板行为"
+
+msgid "Select new width and height"
+msgstr "请选择新的宽度与高度"
+
+msgid "Selected layer"
+msgstr "选中图层"
+
+msgid "Width:"
+msgstr "宽度"
+
+msgid "liquid rescale"
+msgstr "liquid改变大小"
