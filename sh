@@ -1,4 +1,4 @@
 git add .
-git commit -m "$date"
+git commit -m "update"
 git push
 git gc --prune
