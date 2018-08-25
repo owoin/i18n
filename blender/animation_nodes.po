@@ -1,0 +1,228 @@
+###
+###Number
+msgctxt "Operator"
+msgid "Integer"
+msgstr "Integer(整数)"
+
+msgctxt "Operator"
+msgid "Integer Range"
+msgstr "Integer Range(区间;变动)"
+
+msgctxt "Operator"
+msgid "Float"
+msgstr "Float(浮动;浮点)"
+
+msgctxt "Operator"
+msgid "Parse Number"
+msgstr "Parse（解析） Number"
+
+msgctxt "Operator"
+msgid "Constants"
+msgstr "Constants(常数)"
+
+msgctxt "Operator"
+msgid "Wiggle"
+msgstr "Wiggle(摆动;扭动)"
+
+msgctxt "Operator"
+msgid "Map Range"
+msgstr "Map Range(图上距离)"
+
+msgctxt "Operator"
+msgid "Math"
+msgstr "Math(运算;数学)"
+
+msgctxt "Operator"
+msgid "Clamp"
+msgstr "Clamp(夹紧;夹住;固定)"
+
+msgctxt "Operator"
+msgid "Round"
+msgstr "Round(圆形的;环形的;球形的)"
+
+msgctxt "Operator"
+msgid "Convert Angle"
+msgstr "Convert(转换,换算) Angle(角度)"
+###
+###Vector
+msgctxt "Operator"
+msgid "Combine"
+msgstr "Combine(结合;组合;联合;混合)"
+
+msgctxt "Operator"
+msgid "Distance"
+msgstr "Distance(距离;间距)"
+
+msgctxt "Operator"
+msgid "Angle"
+msgstr "Angle(角度)"
+
+msgctxt "Operator"
+msgid "Length"
+msgstr "Length(长度)"
+
+msgctxt "Operator"
+msgid "Dot Product"
+msgstr "Dot(点) Product (标量积;点乘;点积)"
+
+msgctxt "Operator"
+msgid "Offset"
+msgstr "Offset(偏移量)"
+###
+###Rotation
+msgctxt "Operator"
+msgid "Direction to Rotation"
+msgstr "Direction to Rotation(旋转;循环;自转)"
+
+msgctxt "Operator"
+msgid "Rotation to Direction"
+msgstr "Rotation to Direction( 方向;方位)"
+
+msgctxt "Operator"
+msgid "Euler to/from Vector"
+msgstr "Euler(欧拉) to/from Vector(矢量)"
+
+msgctxt "Operator"
+msgid "Convert Rotation Types"
+msgstr "Convert(转换,换算) Rotation Types"
+
+msgctxt "Operator"
+msgid "Separate Euler"
+msgstr "Separate(分离;分开;单独的) Euler"
+
+msgctxt "Operator"
+msgid "Combine Euler"
+msgstr "Combine(结合;组合;联合;混合) Euler"
+
+msgctxt "Operator"
+msgid "Random Euler"
+msgstr "Random(随机的;随意的) Euler"
+
+msgctxt "Operator"
+msgid "Separate Quaternion"
+msgstr "Separate Quaternion(四元数)"
+###
+###Matrix
+msgctxt "Operator"
+msgid "Decompose"
+msgstr "Decompose(腐烂;分解)"
+
+msgctxt "Operator"
+msgid "Compose"
+msgstr "Compose( 组成;构成)"
+
+msgctxt "Operator"
+msgid "Distribute"
+msgstr "Distribute(分发;分配)"
+
+msgctxt "Operator"
+msgid "Replicate"
+msgstr "Replicate(复制;重做,折转)"
+###
+###Text
+msgctxt "Operator"
+msgid "Characters"
+msgstr "Characters(特点;特征;特色)"
+
+msgctxt "Operator"
+msgid "Timecode Generator"
+msgstr "Timecode(时间码) Generator(发电机;发生器;生产者;创始者)"
+
+msgctxt "Operator"
+msgid "Trim"
+msgstr "Trim(修剪;修整;切去;割掉)"
+
+msgctxt "Operator"
+msgid "Reverse"
+msgstr "Reverse(颠倒;掉换;交换;倒退;反向)"
+
+msgctxt "Operator"
+msgid "Repeat"
+msgstr "Repeat(重复;复述;背诵)"
+
+msgctxt "Operator"
+msgid "Block Reader"
+msgstr "Block Reader(块阅读器)"
+
+msgctxt "Operator"
+msgid "Block Writer"
+msgstr "Block Writer(块书写器)"
+
+msgctxt "Operator"
+msgid "File Reader"
+msgstr "File Reader(文件阅读器)"
+
+msgctxt "Operator"
+msgid "Sequence Output"
+msgstr "Sequence(数列;序列;连续) Output"
+
+msgctxt "Operator"
+msgid "Character Property"
+msgstr "(字符性质)Character(性格;角色;特点;字母) Property(特性;属性;财产)"
+
+msgctxt "Operator"
+msgid "Object Separate"
+msgstr "Object Separate(分开;分离;区分;隔开)"
+###
+###Boolean
+msgctxt "Operator"
+msgid "Compare"
+msgstr "Compare(比较;对比)"
+
+msgctxt "Operator"
+msgid "Switch"
+msgstr "Switch(开关;闸;转换器)"
+###
+###Color
+msgctxt "Operator"
+msgid "Combine Color"
+msgstr "Combine(结合;组合;联合;混合) Color"
+
+msgctxt "Operator"
+msgid "Separate Color"
+msgstr "Separate(分离;分开;单独的) Color"
+###
+###List
+msgctxt "Operator"
+msgid "Get Random Elements"
+msgstr "Get Random(随机的;随意的) Elements(成分;要素;组成部分)"
+
+msgctxt "Operator"
+msgid "Shuffle"
+msgstr "Shuffle(变换位置;打乱次序)"
+
+msgctxt "Operator"
+msgid "Slice"
+msgstr "Slice(切成片;切下;划分;薄片)"
+
+msgctxt "Operator"
+msgid "Shift"
+msgstr "Shift(转移;挪动;变化;变换;替换)"
+
+msgctxt "Operator"
+msgid "Sort"
+msgstr "Sort(排序;种类;类别;品种)"
+
+msgctxt "Operator"
+msgid "List Boolean Operations"
+msgstr "List Boolean Operations(运算;作用;使用;运作)"
+
+msgctxt "Operator"
+msgid "Set Struct Elements"
+msgstr "Set Struct(结构，结构体) Elements(成分;原理;基础;要素)"
+###
+###List
+msgctxt "Operator"
+msgid ""
+msgstr "()"
+
+
+
+
+
+
+
+
+
+
+
