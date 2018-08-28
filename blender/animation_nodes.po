@@ -211,15 +211,101 @@ msgctxt "Operator"
 msgid "Set Struct Elements"
 msgstr "Set Struct(结构，结构体) Elements(成分;原理;基础;要素)"
 ###
+###Object
+msgctxt "Operator"
+msgid "Attribute Input"
+msgstr "Attribute(属性;性质;特征) Input"
+
+msgctxt "Operator"
+msgid "Visibility Input"
+msgstr "Visibility(可见度;能见度;能见距离) Input"
+
+msgctxt "Operator"
+msgid "Shape Keys from Object"
+msgstr "Shape(形状;外形;轮廓;样子) Keys from Object"
+
+msgctxt "Operator"
+msgid "Set Keyframes"
+msgstr "Set Keyframes(关键帧)"
+
+msgctxt "Operator"
+msgid "Group Operations"
+msgstr "Group Operations(活动;行动;工作;使用;运作)"
+
+msgctxt "Operator"
+msgid "Armature Info"
+msgstr "Armature(电枢;衔铁;转子;支架) Info"
+
+msgctxt "Operator"
+msgid "Utils"
+msgstr "Utils(工具类;效用;实用工具;实用菜单)"
+#Object Utils Menu
+msgctxt "Operator"
+msgid "Update Matrices"
+msgstr "Update Matrices(matrix的复数形式)"
+#Object Utils Menu
+
+msgctxt "Operator"
+msgid "Instancer"
+msgstr "Instancer(粒子替代;实例化器)"
+
+###Mesh
+msgctxt "Operator"
+msgid "Get Bounding Box"
+msgstr "Get Bounding(弹回;向上弹;向上跳) Box"
+
+msgctxt "Operator"
+msgid "Separate"
+msgstr "Separate(单独的;独立的;分开的;(使)分开;(使)分离;分割;划分)"
+
+msgctxt "Operator"
+msgid "Transform Polygons"
+msgstr "Transform Polygons(多边形)"
+
+msgctxt "Operator"
+msgid "Prepare Polygon Transformation"
+msgstr "Prepare(筹备;准备;预备;配备;作出;制订) Polygon Transformation"
+#
+msgid "Generators"
+msgstr "Generators(发生器)"
+#
+#Mesh Operators Menu
+msgctxt "Operator"
+msgid "Create Edge Indices"
+msgstr "Create Edge Indices(索引;指数;指示;标志;index的复数)"
+#Mesh Operators Menu
+
+#Mesh Finalizing Menu
+msgctxt "Operator"
+msgid "Recalculate Normals"
+msgstr "Recalculate(重新计算) Normals"
+
+msgctxt "Operator"
+msgid "Shade Object Smooth"
+msgstr "Shade(阴;深浅;色彩;黑暗) Object Smooth"
+#Mesh Finalizing Menu
+
+###Spline
+msgctxt "Operator"
+msgid "Make Cyclic"
+msgstr "Make Cyclic(环;循;循环的,cycle周期;循环;周;学时)"
+
+msgctxt "Operator"
+msgid "Evaluate"
+msgstr "Evaluate(估计;评价;评估)"
+
+msgctxt "Operator"
+msgid "Loft"
+msgstr "Loft(阁楼;顶楼;跃层)"
+
+msgctxt "Operator"
+msgid "Revolve"
+msgstr "Revolve(旋转;循环出现;反复考虑.记忆技巧：re 一再 + volv 卷，转 + e → 一再转 → 旋转 )"
+
 ###List
 msgctxt "Operator"
 msgid ""
 msgstr "()"
-
-
-
-
-
 
 
 
